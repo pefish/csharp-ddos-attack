@@ -1,0 +1,5 @@
+1、sql查询中，BENCHMARK(count,expr)中 count值非常大时 即可构造ddos攻击
+
+2、ping
+
+3、
